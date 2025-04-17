@@ -8,5 +8,10 @@
 
 git clone <old_url>
 cd <repo_dir_name>
-git remote add new_remote <new_url>
-git push --all new_remote
+
+// new_remote
+- git remote add new_remote <new_url>
+- git push --all new_remote
+// replace remote
+git remote -v
+git remote set-url origin git@github.com:nguyentrongdev254/web-truyen-tranh.git
