@@ -15,3 +15,6 @@ cd <repo_dir_name>
 // replace remote
 git remote -v
 git remote set-url origin git@github.com:nguyentrongdev254/web-truyen-tranh.git
+
+
+git clone https://oauth2:token@gitlab.com/account_name/repo_name.git
