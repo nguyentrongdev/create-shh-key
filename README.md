@@ -18,3 +18,9 @@ git remote set-url origin git@github.com:nguyentrongdev254/web-truyen-tranh.git
 
 
 git clone https://oauth2:token@gitlab.com/account_name/repo_name.git
+
+# Format
+git clone https://<USERNAME>:<TOKEN>@github.com/<USERNAME>/<REPO>.git
+
+# Example
+git clone https://johndoe:ghp_xxxxxxxxxxxx@github.com/johndoe/private-repo.git
