@@ -25,4 +25,4 @@ git clone https://<USERNAME>:<TOKEN>@github.com/<USERNAME>/<REPO>.git
 # Example
 git clone https://johndoe:ghp_xxxxxxxxxxxx@github.com/johndoe/private-repo.git
 # Example Remote
-git remote add origin git@github-personal:nguyentrongdev/thieponline.git
+git remote add origin git@github-personal:nguyentrongdev/private-repo.git
