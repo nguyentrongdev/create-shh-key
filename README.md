@@ -1,4 +1,4 @@
-# craete-shh-key
+# craete-ssh-key
 1. To generate a new SSH key pair, use the following command: ssh-keygen -t rsa -C "your.email@example.com" -b 4096
 2. git config --global user.name "Admin"
 3. git config --global user.email "admin@vinasupport.com"
@@ -24,3 +24,5 @@ git clone https://<USERNAME>:<TOKEN>@github.com/<USERNAME>/<REPO>.git
 
 # Example
 git clone https://johndoe:ghp_xxxxxxxxxxxx@github.com/johndoe/private-repo.git
+# Example Remote
+git remote add origin git@github-personal:nguyentrongdev/thieponline.git
